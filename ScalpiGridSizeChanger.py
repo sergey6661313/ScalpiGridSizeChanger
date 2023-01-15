@@ -12,7 +12,7 @@ bl_info = {
 
 # settings
 max_depth = 10
-min_depth = -2
+min_depth = -4
 
 # ScalpiGridSizeChanger
 import bpy
